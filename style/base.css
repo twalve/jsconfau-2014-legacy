@@ -1,0 +1,12 @@
+body {
+	background-color: black;
+	color: white;
+  font-family: sans-serif;
+	margin: 0 auto;
+}
+
+ol, ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
